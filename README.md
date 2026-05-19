@@ -40,21 +40,17 @@ This repository includes participant data from the VR shooter study, along with 
 
 The exact file structure may vary by release. Researchers should review the accompanying data dictionary or file-specific documentation for details on variable names, units, and data formats.
 
-## Pre-Registration and Publications
+## Publications and Citation
 
-The study hypotheses and analysis plan were pre-registered on OSF:
+The study hypotheses and analysis plan were pre-registered on OSF and are linked above in the IJCAI-ECAI 2026 Open Science Materials section.
 
-[Pre-registered hypotheses on OSF](https://osf.io/hxfjq)
-
-This dataset accompanies the following paper:
-
-[Paper link placeholder](LINK_TO_PAPER)
+This dataset accompanies the following paper: [Paper link placeholder](LINK_TO_PAPER)
 
 ### Primary Dataset Citation
 
 If you use this dataset, please cite:
 
-> C. A. McClurg and A. R. Wagner, “Studying the Effects of Robot Intervention on School Shooters in Virtual Reality,” *International Joint Conference on Artificial Intelligence (IJCAI’26)*, Bremen, Germany, Aug. 2026.
+> C. A. McClurg and A. R. Wagner, “Studying the Effects of Robot Intervention on School Shooters in Virtual Reality,” in *Proceedings of the International Joint Conference on Artificial Intelligence (IJCAI’26)*, Bremen, Germany, Aug. 2026.
 
 ### Related Publications
 
