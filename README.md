@@ -42,8 +42,6 @@ The exact file structure may vary by release. Researchers should review the acco
 
 ## Publications and Citation
 
-The study hypotheses and analysis plan were pre-registered on OSF and are linked above in the IJCAI-ECAI 2026 Open Science Materials section.
-
 This dataset accompanies the following paper: [Paper link placeholder](LINK_TO_PAPER)
 
 ### Primary Dataset Citation
