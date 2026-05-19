@@ -20,18 +20,7 @@ The resulting dataset supports research on:
 
 ## Dataset
 
-This repository includes participant data from the VR shooter study, along with supporting files for interpreting the dataset.
-
-Typical contents include:
-
-- Participant trajectory data
-- Event logs from the VR environment
-- Experimental condition labels
-- Scenario metadata
-- Visual references for the simulated environment
-- Documentation describing the structure of the dataset
-
-Depending on the file, the dataset may include variables such as:
+This repository includes participant data from the VR shooter study, along with supporting files for interpreting the dataset. Depending on the file, the dataset may include variables such as:
 
 - Participant identifier
 - Trial or scenario identifier
