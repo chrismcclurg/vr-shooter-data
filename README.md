@@ -4,6 +4,14 @@ This repository contains the dataset associated with a virtual reality study in 
 
 ![Environment](https://github.com/chrismcclurg/VR-Shooter-Data/blob/main/visual/iso.png)
 
+## IJCAI-ECAI 2026 Open Science Materials
+
+This repository contains the data and code described in the paper “Studying the Effects of Robot Intervention on School Shooters in Virtual Reality” by C. A. McClurg and A. R. Wagner, to appear in the Proceedings of the IJCAI-ECAI 2026 Special Track on Human-Centred Artificial Intelligence: Multidisciplinary Contours and Challenges of Next-Generation AI Research and Applications.
+
+Special Track Call: https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-human-centred-ai/
+
+Pre-registered hypotheses: https://osf.io/hxfjq/
+
 ## Overview
 
 Evaluating interventions for school shootings is ethically and practically difficult. Real-world experimentation is infeasible, and retrospective incident reports often lack the high-resolution behavioral data needed to model within-event movement and decision-making.
