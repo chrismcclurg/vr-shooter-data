@@ -12,6 +12,8 @@ Special Track Call: https://2026.ijcai.org/ijcai-ecai-2026-call-for-papers-human
 
 Pre-registered hypotheses: https://osf.io/hxfjq/
 
+Supplementary material is available [here](supplementary/IJCAI26_robotsDistract_supplementary.pdf).
+
 ## Overview
 
 Evaluating interventions for school shootings is ethically and practically difficult. Real-world experimentation is infeasible, and retrospective incident reports often lack the high-resolution behavioral data needed to model within-event movement and decision-making.
